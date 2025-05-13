@@ -35,6 +35,16 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+@font-face {
+  font-family: 'AntrophysFree.ttf'; /* Nombre de la fuente que usarás en HTML */
+  src: url('webfonts/AntrophysFree.ttf') format('ttf'), /* Ruta al archivo ttf */
+  /* Si necesitas más formatos, agrégalos aquí */
+}
+
+.AntrophysFree {
+  font-family: 'AntrophysFree';
+}
+
 *,
 *::before,
 *::after {
