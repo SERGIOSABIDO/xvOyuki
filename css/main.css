@@ -30,9 +30,9 @@ Created by : mutationthemes
     100% { opacity: 1; }
   }
 
-.fondosvg {
-    background-image: url( '/assets/svg/fondoweb.svg' );
- }
+  .fondoacua {
+    background-image: url(assets/svg/fondoacuarela.svg);
+  }
 
   .containersvg {
     display: flex;
