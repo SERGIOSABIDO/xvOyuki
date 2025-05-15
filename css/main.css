@@ -31,6 +31,12 @@ Created by : mutationthemes
   }
 
 
+.svgcenter{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+   }
+
 
 
 /*Preloader*/
