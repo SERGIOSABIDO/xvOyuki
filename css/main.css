@@ -30,6 +30,10 @@ Created by : mutationthemes
     100% { opacity: 1; }
   }
 
+.fondosvg {
+    background-image: url( '/assets/svg/fondoweb.svg' );
+ }
+
   .containersvg {
     display: flex;
     justify-content: center;
