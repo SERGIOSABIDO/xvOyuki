@@ -31,6 +31,10 @@ Created by : mutationthemes
   }
 
 
+  img {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
 
   .containersvg {
     display: flex;
